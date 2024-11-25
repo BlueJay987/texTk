@@ -6,8 +6,8 @@ contains features such as:
 - font size customization
 - save and open keybinds
 
-avalible as an exectutable for Linux and Windows!\
-or you can run it from the source code!
+avalible as an exectutable for [Linux](executables/linux) and [Windows!](execuatbles/windows)\
+or you can run it from the [source code!](texTk.py)
 
 ### this is just a silly little project i made in a few days lmao
 i wanted to learn tkinter, so i made this! :D\
